@@ -75,5 +75,12 @@ DerivedDataCache/*
 Plugins/*
 
 #helloworld
-helloworld/Debug/
-helloworld/helloworld/Debug/
+helloworld/x64/Debug/
+helloworld/helloworld/x64/Debug/
+
+#cpp_linker
+cpp_linker/x64/Debug/
+cpp_linker/cpp_linker/x64/Debug/cpp_linker.tlog/
+cpp_linker/cpp_linker/x64/Debug/*.idb
+cpp_linker/cpp_linker/x64/Debug/*.pdb
+
