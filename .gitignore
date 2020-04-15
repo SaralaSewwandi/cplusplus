@@ -83,4 +83,5 @@ cpp_linker/x64/Debug/
 cpp_linker/cpp_linker/x64/Debug/cpp_linker.tlog/
 cpp_linker/cpp_linker/x64/Debug/*.idb
 cpp_linker/cpp_linker/x64/Debug/*.pdb
+cpp_linker/cpp_linker/x64/Debug/*.log
 
